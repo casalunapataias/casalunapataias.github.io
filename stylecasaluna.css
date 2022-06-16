@@ -126,7 +126,8 @@
 .drapeau{
 
         height: 250px;
-        width: auto;   
+        width: auto; 
+        margin-bottom: 50px;
         }
         
 #conteneurpageacceuil{
